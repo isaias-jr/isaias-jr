@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Atualmente trabalho empresa de transporte e pretendo migra para a area de tecnologia 
+- 🔭 Eu pretendo migra para a area de tecnologia 
 - 🌱 Estou cursando faculdade de Tecnologia de informação e tecnico de desenvolvimento de sistemas
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
